@@ -23,5 +23,6 @@
 | ---------------- |------------------------------------------|
 | alias cl="clear" | Clears the terminal                      |
 | alias md=mkdir   | (maker directory) Create a new directory |
+
 ---
 
