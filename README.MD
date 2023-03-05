@@ -6,9 +6,9 @@
 #### Viejo programador con Delphi 😏
 
 ---
-### ejercicio
+## ejercicio
 
-## Comandos Terminal
+### Comandos Terminal
 
 | Command | Description                                                                              |
 | ------- | ---------------------------------------------------------------------------------------- |
@@ -18,7 +18,7 @@
 | pwd     | Show the current directory                                                               |
 | grep    | The grep command searches through the file, looking for matches to the pattern specified |
 
-## Comandos Alias
+### Comandos Alias
 | Alias            | Description                              |
 | ---------------- |------------------------------------------|
 | alias cl="clear" | Clears the terminal                      |
