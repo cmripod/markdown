@@ -19,10 +19,10 @@
 | grep    | The grep command searches through the file, looking for matches to the pattern specified |
 
 ### Comandos Alias
-| Alias            | Description                              |
-| ---------------- |------------------------------------------|
-| alias cl="clear" | Clears the terminal                      |
-| alias md=mkdir   | (maker directory) Create a new directory |
 
+```bash
+alias cl="clear" 
+alias md="mkdir" 
+```
 ---
 
